@@ -8,13 +8,11 @@
 *.pch
 *.so
 *.dylib
-*.dll
 *.mod
 *.smod
 *.lai
 *.la
 *.a
-*.exe
 *.out
 *.app
 
@@ -29,7 +27,6 @@
 # ビルドディレクトリ
 x64/
 Debug/
-Release/
 
 # デバッグ・一時ファイル
 *.pdb

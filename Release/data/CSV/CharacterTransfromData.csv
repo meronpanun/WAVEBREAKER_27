@@ -1,0 +1,6 @@
+Name,PosX,PosY,PosZ,RotX,RotY,RotZ,ScaleX,ScaleY,ScaleZ,Attack,HP,ChaseSpeed,WalkSpeed,RunSpeed,ARInitAmmo,SGInitAmmo,ARBulletPower,SGBulletPower,TackleCooldown,TackleSpeed,TackleDamage,MaxShieldDurability,ShieldRegenRate
+NormalEnemy,0,-0.5,3,0,0,0,0.8,0.8,0.8,12,90,2,,,,,,,,,,,,
+RunnerEnemy,5,-0.5,3,0,0,0,0.7,0.7,0.7,10,160,4,,,,,,,,,,,,
+AcidEnemy,-5,-0.5,3,0,0,0,1,1,1,15,220,2,,,,,,,,,,,,
+Player,10,3,40,0,0,0,2,2,2,20,100,,5,8.35,200,30,15,50,180,35,150,180,50
+Boss,0,0,0,0,0,0,2,2,2,40,2500,3.5,,,,,,,,,,,,,
